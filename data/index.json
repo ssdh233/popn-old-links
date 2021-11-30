@@ -1,0 +1,1206 @@
+[
+  {
+    "version": "22",
+    "title": "ラピストリア",
+    "index": "https://p.eagate.573.jp/game/popn/lapistoria/p/index.html",
+    "musicchar": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/index.html",
+    "music_list": [
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_tv/guren.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_tv/the_other_self.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_tv/funafuna.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_tv/menimeni.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_tv/noushou.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_tv/rolling.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_tv/lostone.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_tv/kunoichi.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_tv/go_go.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_gumi/renai.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_gumi/yiear.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_gumi/bamboo.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_gumi/gensou.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_gumi/idola.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_gumi/infection_strobe.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_gumi/infection_baby.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_gumi/infection_urekoi.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_toho/t1_struggle.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_toho/t1_rcr.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_toho/t2_sennen.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_toho/t2_ayakashi.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_konami/toki_showup.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_konami/toki_cheat.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_konami/tokai.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_konami/onko.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_konami/niko.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_konami/otome.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_konami/suigetsu.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/n_twoman.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_konami/twoman.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/n_kimochi.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_konami/kimochi.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_20/mirai.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_20/choco.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_20/neko_neko.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_17/munya.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_17/nekozamurai.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/n_kouen_live.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_17/kouen_live.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_20/hoshino.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_20/mss.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/na_hiprock.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_6/hiprock.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/na_meta.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_6/metamorphose.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/na_zadamga.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_13/zadamga.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/na_rinne.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_17/rinne.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/n_unmei.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_5/unmei.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/n_syumatsu.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_5/syumatsu.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/n_lapistoria.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_5/lapistoria.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/n_chino.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_5/chinoki.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/n_bergamot.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_4/bergamot.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/n_mesia.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_4/mesia.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/n_tetto.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_4/tettoutetsubi.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/n_usanuko.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_4/usanuko.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/n_kuuni.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_3/kuuni.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/n_senjo.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_3/senjo.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/n_turedure.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_3/turedure.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/n_shock.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_3/shock_me.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/n_zeroto.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_2/zeroto.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/n_nine.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_2/nine.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/n_perverse.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_2/perverse.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/n_sokoni.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_2/sokoni.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/n_realize.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc/realize_maze.jpg"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/n_illumina.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc/illumina.jpg"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/n_kira.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc/kira.jpg"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/n_syunpu.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc/shunpu.jpg"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/nc_miminyami.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_7/twinkling.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/ns_akatoao.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_7/akatoao.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/ns_jikuu.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_7/jikuu.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/ns_karakara.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_7/karakara.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/ns_uruwashiki.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_8/uruwashiki.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/ns_versa.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_8/versa.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/ns_aoi.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_8/aoi.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/ns_kazeno.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_8/kazeno.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/ns_amai.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_9/amai.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/ns_hatcha.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_9/hatcha.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/ns_heyhey.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_10/heyhey.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/ns_symsonic.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_10/symsonic.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/ns_infinity.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_10/infinity.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/ns_quon.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_11/quon.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/ns_harmonia.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_11/harmonia.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/ns_habits.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_12/habits.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/ns_onyour.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_12/onyour.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/ns_jampyon.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_13/jampyon.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/ns_midare.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_13/midare.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/ns_manju.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_14/manju.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/ns_kageki.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_14/kageki.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/ns_kaleido.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_14/kaleido.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/ns_bloody.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_15/bloody.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/ns_ice_crystals.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_16/ice_crystals.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/ns_the_sign_of.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_16/the_sign_of.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/ns_fragments.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_16/fragments.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/ns_dimension.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_17/dimension.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/ns_who.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_18/who.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/ns_renai.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_18/renai.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/ns_abare.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_19/abare.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/ns_donut.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_19/donut.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/ns_innocence.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_20/Innocence.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/ns_l_an.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_21/l_an.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/ns_anelis.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_21/anelis.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_20/hoshihuri.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_20/tamago.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_20/kokuten.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/ns_ebony_ivory.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_20/EBONY_IVORY.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/ns_diavolo.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_20/diavolo.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_20/da.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_20/inthe.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_20/scars.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_20/peragro.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_20/8000000.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_20/p_p.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_20/s_diary.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_15/p_chronoxia.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/2dx/20/p/newsong/howling.html",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_15/p_howling.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_15/p_fsb.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_15/p_toxic.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/lapistoria/p/musicchar/mcdetail/pon_ranma.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_15/ranma.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/2dx/21/p/newsong/element_of_spada.html",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_iseki/spada.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_iseki/tsubomi.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/2dx/20/p/newsong/decoherence.html",
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_iseki/decohe.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_iseki/532nm.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_iseki/wadatsumi.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_iseki/cleopatrysm.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_iseki/osenju.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/lapistoria/p/images/musicchar/kc_iseki/khamen.png"
+      }
+    ]
+  },
+  {
+    "version": "23",
+    "title": "éclale",
+    "index": "https://p.eagate.573.jp/game/popn/eclale/p/index.html",
+    "musicchar": "https://p.eagate.573.jp/game/popn/eclale/p/musicchar/index.html",
+    "music_list": [
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_tv/sakura.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_tv/mazeruna.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_tv/kyun.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_tv/chiruno.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_tv/machibito.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_tv/kakushin.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_tv/bokuga.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_tv/lab.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_tv/riku.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_tv/zenryoku.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_tv/hanamaru.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_tv/sugar.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/eclale/p/musicchar/mcdetail/m_madspeed.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_ec/madspeed.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/eclale/p/musicchar/mcdetail/m_inheritance.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_ec/inheritance.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/eclale/p/musicchar/mcdetail/m_fateno23.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_ec/fateno23.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/eclale/p/musicchar/mcdetail/m_on_do.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_ec/on_do.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/eclale/p/musicchar/mcdetail/m_voices.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_ec/voices.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/eclale/p/musicchar/mcdetail/m_geocenrism.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_ec/geocenrism.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/eclale/p/musicchar/mcdetail/m_ikari.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_ec/ikari.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/eclale/p/musicchar/mcdetail/m_trixxxter.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_ec/trixxxter.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/eclale/p/musicchar/mcdetail/m_zouka.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_ec/zouka.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/eclale/p/musicchar/mcdetail/m_iroha.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_ec/carta.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/eclale/p/musicchar/mcdetail/m_dump.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_ec/young.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/eclale/p/musicchar/mcdetail/m_trideca.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_ec/trideca.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/eclale/p/musicchar/mcdetail/m_popcorn.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_ec/popcorn.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/eclale/p/musicchar/mcdetail/m_umai.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_ec/umai.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/eclale/p/musicchar/mcdetail/m_devil.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_ec/devil.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/eclale/p/musicchar/mcdetail/m_sakebino.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_ec/sakebino.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/eclale/p/musicchar/mcdetail/m_ao.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_ec/ao.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/eclale/p/musicchar/mcdetail/m_han.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_ec/han.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/eclale/p/musicchar/mcdetail/m_sirius.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_ec/sirius.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/eclale/p/musicchar/mcdetail/m_geo.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_ec/geo.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/eclale/p/musicchar/mcdetail/m_yume.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_ec/yume.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/eclale/p/musicchar/mcdetail/m_c_w.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_ec/c_w.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/eclale/p/musicchar/mcdetail/m_schall.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_ec/schall.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/eclale/p/musicchar/mcdetail/m_koru.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_ec/koru.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/eclale/p/musicchar/mcdetail/m_sasurai.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_ec/sasurai.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/eclale/p/musicchar/mcdetail/m_boku.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_ec/boku.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_popn/j_rb.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_popn/jr_rb.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_popn/cowboy.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_popn/funk_f.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_popn/j_reggae.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_popn/erosion.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_popn/rhythm.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/00/index.html?page=10#nonstop",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_koubo/nonstop.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/00/index.html?page=10#bakurin",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_koubo/bakurin.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/00/index.html?page=10#beat_it",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_koubo/beat_it.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/00/index.html?page=10#dysnomia",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_koubo/dysnomia.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/00/index.html?page=09#sweet",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_koubo/sweet.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/00/index.html?page=09#sakurairo",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_koubo/sakurairo.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/00/index.html?page=09#mahouno",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_koubo/mahouno.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/00/index.html?page=09#sugar",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_koubo/sugar.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/00/index.html?page=08#yorimichi",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_koubo/yorimichi.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/00/index.html?page=08#symphony",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_koubo/symphony.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/00/index.html?page=07#accele",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_koubo/accele.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/00/index.html?page=07#gendaino",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_koubo/gendaino.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/00/index.html?page=07#airport",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_koubo/airport.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/00/index.html?page=06#asteer",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_koubo/asteer.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/00/index.html?page=06#ji_yu",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_koubo/ji_yu.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/00/index.html?page=06#into_w",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_koubo/into_w.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/00/index.html?page=05#beyond",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_koubo/beyond.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/00/index.html?page=05#hadros",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_koubo/hadros.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/00/index.html?page=05#himawari",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_koubo/himawari.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/00/index.html?page=05#syoujo",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_koubo/syoujo.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/00/index.html?page=04#engage",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_koubo/engage.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/00/index.html?page=04#carad",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_koubo/carad.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/00/index.html?page=04#kenkon",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_koubo/kenkon.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/00/index.html?page=04#rat_ta",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_koubo/rat_ta.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/00/index.html?page=04#subd",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_koubo/subd.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/00/index.html?page=03#albedo",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_koubo/albedo.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/00/index.html?page=03#bokurano",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_koubo/bokurano.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/00/index.html?page=03#together",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_koubo/toghther.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/00/index.html?page=03#megane",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_koubo/megane.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/00/index.html?page=03#luna",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_koubo/luna.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/00/index.html?page=02#colorful",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_koubo/colorful.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/00/index.html?page=02#speed",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_koubo/speed.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/00/index.html?page=02#recon",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_koubo/recon.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/00/index.html?page=02#el_v",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_koubo/el_v.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/00/index.html?page=02#norinori",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_koubo/norinori.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/00/index.html?page=01#tentai",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_koubo/tentai.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/00/index.html?page=01#link",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_koubo/link.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/00/index.html?page=01#re_utn",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_koubo/re_utn.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/00/index.html?page=01#dubste",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_koubo/dubste.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/00/index.html?page=01#ophelia",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_koubo/ophelia.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/eclale/p/musicchar/mcdetail/m_arugamamani.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_ec/arugamamani.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/eclale/p/musicchar/mcdetail/m_good_bye.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_konami/good_bye.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_konami/aki.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_konami/papipu.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_konami/cherno.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_konami/scarlet.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_konami/konran.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_konami/warriors.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/eclale/p/musicchar/mcdetail/m_otoca.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_konami/otoca.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_konami/venus_chr.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_konami/toumei.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_konami/windy.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_konami/onthe.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_konami/h_kurano.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_konami/h_kurokami.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_konami/h_rin.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_konami/h_pkpk.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_konami/h_3am.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_konami/h_dive.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_konami/h_fuwa.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_konami/h_mocha.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_konami/h_fura.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_konami/h_si.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_konami/h_chiku.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/eclale/p/images/musicchar/kc_konami/h_chia.png"
+      }
+    ]
+  },
+  {
+    "version": "24",
+    "title": "うさぎと猫と少年の夢",
+    "index": "https://p.eagate.573.jp/game/popn/usaneko/p/index.html",
+    "musicchar": "https://p.eagate.573.jp/game/popn/usaneko/p/musicchar/index.html",
+    "music_list": [
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/burning.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/unmei.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/we_are_i_chu.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/secret_answer.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/syuugawari.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/erin_venus.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/hoozuki.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/torinoko.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/donuts.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/mat.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/roku.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/kemono.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/himawari.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/bitter.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/nimensei.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/usaneko/p/musicchar/mcdetail/metropolitan.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/metropolitan.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/ringo.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/koi.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/hayate.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/usaneko/p/musicchar/mcdetail/247popperz.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/24_7.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/usaneko/p/musicchar/mcdetail/amairo.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/amairo.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/usaneko/p/musicchar/mcdetail/hymn.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/hymn.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/usaneko/p/musicchar/mcdetail/aiiro.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/aiiro.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/usaneko/p/musicchar/mcdetail/another.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/another.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/usaneko/p/musicchar/mcdetail/modernism.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/modernism.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/usaneko/p/musicchar/mcdetail/a_you.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/a_you.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/usaneko/p/musicchar/mcdetail/onemore.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/onemore.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/usaneko/p/musicchar/mcdetail/pastelkun.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/hoshikuzu.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/usaneko/p/musicchar/mcdetail/sailren.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/sailren.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/usaneko/p/musicchar/mcdetail/rendezvous.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/rendezvous.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/usaneko/p/musicchar/mcdetail/hata.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/hata.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/usaneko/p/musicchar/mcdetail/sakimori.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/sakimori.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/usaneko/p/musicchar/mcdetail/oni.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/yasha.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/usaneko/p/musicchar/mcdetail/mohair.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/mohair.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/usaneko/p/musicchar/mcdetail/quilt.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/quilt.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/usaneko/p/musicchar/mcdetail/tamayori.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/tamayori.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/usaneko/p/musicchar/mcdetail/spiral.html",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/spiral.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/usaneko/p/musicchar/mcdetail/mikan.html",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/mikan.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/usaneko/p/musicchar/mcdetail/chaos.html",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/chaos.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/negai.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/mai.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/last.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/90g.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/usaneko/p/musicchar/mcdetail/auftakt.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/auftakt.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/usaneko/p/musicchar/mcdetail/alrescha.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/alrescha.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/usaneko/p/musicchar/mcdetail/akash.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/akash.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/usaneko/p/musicchar/mcdetail/singa.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/singa.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/usaneko/p/musicchar/mcdetail/reikonn.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/reikonn.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/usaneko/p/musicchar/mcdetail/maintenance.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/maintenance.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/usaneko/p/musicchar/mcdetail/jyouro.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/jouro.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/usaneko/p/musicchar/mcdetail/kourounoyume.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/kourounoyume.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/usaneko/p/musicchar/mcdetail/goodnight.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/goodnight.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/usaneko/p/musicchar/mcdetail/doppel.html#sec_music",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/doppel.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/lead.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/01/index.html?page=04#lunahare",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/lunahare.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/01/index.html?page=04#virtual",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/virtual.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/01/index.html?page=04#saQrifice",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/saQrifice.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/01/index.html?page=03#space",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/space.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/01/index.html?page=03#ameto",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/ameto.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/01/index.html?page=03#nove",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/nove.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/01/index.html?page=03#tensai",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/tensai.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/01/index.html?page=03#overdamoon",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/overdamoon.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/01/index.html?page=02#flower",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/flower.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/01/index.html?page=02#dive",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/dive.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/01/index.html?page=02#carbonara",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/carbonara.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/01/index.html?page=02#doo",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/doo.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/01/index.html?page=02#natsuiro",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/natsuiro.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/01/index.html?page=01#spangles",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/spangles.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/01/index.html?page=01#future",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/future.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/01/index.html?page=01#white",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/white.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/01/index.html?page=01#tokyo",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/tokyo.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/01/index.html?page=01#ijust",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/ijust.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/01/index.html?page=01#jack",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/jack.png"
+      },
+      {
+        "detail": "https://p.eagate.573.jp/game/popn/creators/event/music/01/index.html?page=01#la_lumiere",
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/la_lumiere.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/dreaming.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/moon_child.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/fsw.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/ringa.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/mushino.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/fly.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/xross.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/arcanos.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/ririze.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/susume.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/barrier.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/kuroitsuki.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/miracle.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/knights.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/juudan.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/meumeu.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/drizzly.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/kirisute.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/shinobi.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/binary.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/himitsu.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/dual.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/jimotokko.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/pajama.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/romance.png"
+      },
+      {
+        "banner": "https://p.eagate.573.jp/game/popn/usaneko/p/images/p/musicchar/kc/ronron.png"
+      }
+    ]
+  }
+]
