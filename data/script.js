@@ -72,12 +72,15 @@
   console.log(JSON.stringify(arr));
 })();
 
-// for 16
+// for 16, 15
 
 (function () {
-  const arr = Array.from(document.querySelectorAll("map > area")).map((x) => ({
-    detail: x.href,
-    genre: x.title,
-  }));
+  const arr = Array.from(document.querySelectorAll("map > area"))
+    .map((x) => ({
+      detail: x.href,
+      genre: x.title,
+    }))
+    .filter((x) => x.detail);
+  console.log(arr.length);
   console.log(JSON.stringify(arr));
 })();
